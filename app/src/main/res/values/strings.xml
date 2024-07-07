@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Redivivus</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="kata_sandi">Kata sandi</string>
+    <string name="masuk">Masuk</string>
+    <string name="lupa_kata_sandi">Lupa Kata Sandi?</string>
+    <string name="atau_masuk_dengan">atau masuk dengan</string>
+    <string name="belum_punya_akun_daftar_sekarang">Belum punya akun? Daftar Sekarang</string>
+</resources>
